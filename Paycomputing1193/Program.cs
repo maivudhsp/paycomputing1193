@@ -26,14 +26,6 @@ app.UseAuthorization();
 
 
 
-//app.Run(async context =>
-//{
-//    await context.Response.WriteAsync("Environment: " + app.Environment.EnvironmentName);
-//});
-
-//app.MapGet("/", () => "Hello World!");
-
-//app.MapGet("/hello/{name:alpha}", (string name) => $"Hello {name}!");
 
 app.MapControllerRoute(
     name: "default",

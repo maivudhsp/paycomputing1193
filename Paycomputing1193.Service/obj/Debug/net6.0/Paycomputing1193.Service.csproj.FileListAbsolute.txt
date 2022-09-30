@@ -1,0 +1,14 @@
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\bin\Debug\net6.0\Paycomputing1193.Service.deps.json
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\bin\Debug\net6.0\Paycomputing1193.Service.runtimeconfig.json
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\bin\Debug\net6.0\Paycomputing1193.Service.dll
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\bin\Debug\net6.0\Paycomputing1193.Service.pdb
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\Paycomputing1193.Service.csproj.AssemblyReference.cache
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\Paycomputing1193.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\Paycomputing1193.Service.AssemblyInfoInputs.cache
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\Paycomputing1193.Service.AssemblyInfo.cs
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\Paycomputing1193.Service.csproj.CoreCompileInputs.cache
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\Paycomputing1193.Service.dll
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\refint\Paycomputing1193.Service.dll
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\Paycomputing1193.Service.pdb
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\Paycomputing1193.Service.genruntimeconfig.cache
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Service\obj\Debug\net6.0\ref\Paycomputing1193.Service.dll

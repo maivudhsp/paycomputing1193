@@ -1,0 +1,14 @@
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\bin\Debug\net6.0\Paycomputing1193.Persistent.deps.json
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\bin\Debug\net6.0\Paycomputing1193.Persistent.runtimeconfig.json
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\bin\Debug\net6.0\Paycomputing1193.Persistent.dll
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\bin\Debug\net6.0\Paycomputing1193.Persistent.pdb
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\Paycomputing1193.Persistent.csproj.AssemblyReference.cache
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\Paycomputing1193.Persistent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\Paycomputing1193.Persistent.AssemblyInfoInputs.cache
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\Paycomputing1193.Persistent.AssemblyInfo.cs
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\Paycomputing1193.Persistent.csproj.CoreCompileInputs.cache
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\Paycomputing1193.Persistent.dll
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\refint\Paycomputing1193.Persistent.dll
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\Paycomputing1193.Persistent.pdb
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\Paycomputing1193.Persistent.genruntimeconfig.cache
+C:\Users\MaiVanPhuongVu\Desktop\project\Paycomputing1193\Paycomputing1193.Persistent\obj\Debug\net6.0\ref\Paycomputing1193.Persistent.dll
